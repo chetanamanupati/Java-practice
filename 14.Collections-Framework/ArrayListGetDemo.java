@@ -3,7 +3,7 @@ import java.util.ArrayList;
 public class ArrayListGetDemo{
     public static void main(String[]args){
 
-        ArrayList<String> fruits = new ArrayList();
+        ArrayList<String> fruits = new ArrayList<>();
 
         fruits.add("Apple");
         fruits.add("Banana");
